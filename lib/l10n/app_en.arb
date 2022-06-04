@@ -1,0 +1,10 @@
+{
+    "appTitle": "Frazex-Task",
+    "english": "English",
+    "russian": "Russian",
+    "azerbaijanian": "Azerbaijanian",
+    "home": "Home",
+    "search": "Search",
+    "searchHint": "Type the name of product",
+    "productError": "Failed to get products"
+}
